@@ -17,6 +17,8 @@
   "C_Cpp.vcFormat.space.afterCastCloseParenthesis": true,
   "C_Cpp.vcFormat.space.afterComma": true,
   "files.associations": {
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "initializer_list": "cpp",
+    "string_view": "cpp"
   },
 }
